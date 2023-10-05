@@ -6,9 +6,12 @@ I had trouble getting the maximum change in Profit loss until I realized that I 
 PYPoll 
 it was more challenging. I've completed it following instructions in class and getting help from the internet.
 
-GitHUb 
+GitHub 
 
-The detailed steps provided by the instructor during the class and during office hours only needed
+The detailed steps provided by the instructor during the class and during office hours was really help ful to clone the repository and push it back after the coding
+
+
+
 I used the following sites to help with different parts of the script
 
 1. In PyPoll, calculate the percent of votes and format it to three decimal points:
